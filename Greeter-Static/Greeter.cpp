@@ -1,0 +1,3 @@
+#include"GreeterHeader.h"
+
+std::string Greeter::greet(std::string name) { return "Здравствуйте, " + name + "!\n"; };
